@@ -32,7 +32,7 @@ const Home = () => {
                </span>
             </div>
             <div id='img'>
-               < img src={ "/image/pic.png" }alt=''></img>
+               < img src={ "public/image/pic.png" }alt=''></img>
             </div>
 
 
