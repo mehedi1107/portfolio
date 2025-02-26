@@ -1,7 +1,7 @@
 import React from 'react'
 import './Home.css'
 import { useTypewriter, Cursor } from 'react-simple-typewriter';
-import pic from '../image/pic.png';
+import pic from 'public/image/pic.png';
 
 
 const Home = () => {
@@ -33,8 +33,8 @@ const Home = () => {
                </span>
             </div>
             <div id='img'>
-               < img src={pic }alt=''></img>
-            </div>
+               < img src={pic } alt='hi'></img>
+            </div> 
 
 
          </div>
