@@ -7,7 +7,7 @@ const Contact = () => {
 
 
   return (
-    <form id='from' onSubmit={onSubmit}>
+    <form id='from'>
       <h2>Contact <span id='front'>Me</span></h2>
       <div id='from2'>
 

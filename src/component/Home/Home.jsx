@@ -5,7 +5,7 @@ import { useTypewriter, Cursor } from 'react-simple-typewriter';
 
 const Home = () => {
    const [text] = useTypewriter({
-      words: ['Front-End Developer', 'Back-End Developer', ''],
+      words: ['Web Designer', 'Web Developer', 'Full-stack-Developer'],
       typeSpeed: 100,
       deleteSpeed: 100,
       delaySpeed: 1500,
@@ -32,7 +32,7 @@ const Home = () => {
                </span>
             </div>
             <div id='img'>
-               < img src="src/component/image/profile.jpeg" alt=''></img>
+               < img src={ import.meta.env.BASE_URL +"src/component/image/pic.png" }alt=''></img>
             </div>
 
 

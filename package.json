@@ -2,7 +2,7 @@
   "name": "porfolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "http://mehedi1107.github.io/react10",
+  "homepage": "http://mehedi1107.github.io/portfolio",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
